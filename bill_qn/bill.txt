@@ -1,0 +1,8 @@
+
+---- Grocery Shop Bill ----
+customer name :hanna 
+phone number : 9745550540
+Oil x 2 : rs 120 * 2total : rs 240
+discount : rs48.0
+finaml amount : rs 192.0
+......THANK YOU FOR SHOPPING PLZ VISIT AGAIN .......
